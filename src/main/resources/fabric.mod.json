@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ruby",
+	"version": "${version}",
+	"name": "Ruby Mod",
+	"description": "Fabric port of Ruby Mod that propably won't be supported",
+	"authors": [
+		"NJ_ROSSO (Irl name: Gregor Valusso)"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "MIT",
+	"icon": "",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.njrosso.ruby.RubyMod"
+		],
+		"client": [
+			"net.njrosso.ruby.RubyModClient"
+		],
+		"fabric-datagen": [
+			"net.njrosso.ruby.RubyModDataGenerator"
+		]
+	},
+	"mixins": [
+		"ruby.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
