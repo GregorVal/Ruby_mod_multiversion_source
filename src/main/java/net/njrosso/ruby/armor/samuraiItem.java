@@ -4,8 +4,8 @@ import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.ItemStack;
 
-public class chestplateItem extends ArmorItem {
-    public chestplateItem(ArmorMaterial armorMaterial, Type type, Properties properties) {
+public class samuraiItem extends ArmorItem {
+    public samuraiItem(ArmorMaterial armorMaterial, Type type, Properties properties) {
         super(armorMaterial, type, properties);
     }
 

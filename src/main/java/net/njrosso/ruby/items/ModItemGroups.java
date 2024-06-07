@@ -30,7 +30,10 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.njrs)).displayItems(((displayContext, entries) -> {
                         entries.accept(ModItems.njingot);
                         entries.accept(ModItems.njrs);
+                        entries.accept(ModItems.njrhelm);
                         entries.accept(ModItems.chestplate);
+                        entries.accept(ModItems.njrleg);
+                        entries.accept(ModItems.njrboots);
                     })).build());
 
     public static void registerTabs() {
