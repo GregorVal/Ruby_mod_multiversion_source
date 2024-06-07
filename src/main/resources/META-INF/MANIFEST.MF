@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: njrs
+Specification-Vendor: njrssareus
+Specification-Version: 1
+Implementation-Title: ruby 2
+Implementation-Version: 1.0
+Implementation-Vendor: njrssareus
+Implementation-Timestamp: 2024-06-06T13:26:19+0200
+

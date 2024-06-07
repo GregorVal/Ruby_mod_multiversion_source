@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "Y#Y"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_sword"
+    },
+    "Y": {
+      "item": "njrs:strange_scrap"
+    }
+  },
+  "result": {
+    "item": "njrs:tj_katana"
+  }
+}

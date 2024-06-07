@@ -1,0 +1,22 @@
+{
+  "item.njrs.njrs": "NJ_ROSSO's Sword",
+  "item.njrs.tj_katana": "llama_07_ nichirin",
+  "item.njrs.njrshelm" : "NJ_ROSSO's helmet",
+  "item.njrs.njrschest" : "NJ_ROSSO's chestplate",
+  "item.njrs.njrsleg" : "NJ_ROSSO's leggings",
+  "item.njrs.njrsboot" : "NJ_ROSSO's boots",
+  "item.njrs.njrsingot": "NJR's ingot",
+  "item.njrs.master_k": "Master Katana",
+  "item.njrs.u_helm": "Earrings",
+  "item.njrs.u_chest": "Uniform jacket",
+  "item.njrs.u_leg": "Uniform leggings",
+  "item.njrs.u_boots": "Uniform Boots",
+  "item.njrs.strange_scrap": "Strange Scrap",
+
+  "enchantment.njrs.fire_sweep": "Fiery Infused Edge",
+  "enchantment.njrs.fire_thorns": "Fiery Infused Thorns",
+
+  "effect.njrs.fire_regeneration": "Fire Regeneration",
+
+  "itemGroup.TabNJRs": "NJ_ROSSO's sword"
+}

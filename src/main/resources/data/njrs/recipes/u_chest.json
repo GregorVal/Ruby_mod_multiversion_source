@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XNX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "njrs:strange_scrap"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "njrs:u_chest"
+  }
+}
