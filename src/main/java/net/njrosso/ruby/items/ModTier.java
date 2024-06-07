@@ -1,13 +1,14 @@
 package net.njrosso.ruby.items;
 
-import net.minecraft.item.ToolMaterial;
-import net.minecraft.recipe.Ingredient;
+
+import net.minecraft.world.item.Tier;
+import net.minecraft.world.item.crafting.Ingredient;
 
 import java.util.function.Supplier;
 
-public enum ModTier implements ToolMaterial {
+public enum ModTier implements Tier {
     njrs(5,-1,5,14.5F,30,
-            () -> Ingredient.ofItems(ModItems.njingot));
+            () -> Ingredient.of(ModItems.njingot));
 
 
     private final int miningLvl;
@@ -27,27 +28,27 @@ public enum ModTier implements ToolMaterial {
     }
 
     @Override
-    public int getDurability() {
+    public int getUses() {
         return this.Durability;
     }
 
     @Override
-    public float getMiningSpeedMultiplier() {
+    public float getSpeed() {
         return this.miningSpeed;
     }
 
     @Override
-    public float getAttackDamage() {
+    public float getAttackDamageBonus() {
         return this.attackDamage;
     }
 
     @Override
-    public int getMiningLevel() {
+    public int getLevel() {
         return this.miningLvl;
     }
 
     @Override
-    public int getEnchantability() {
+    public int getEnchantmentValue() {
         return this.enchantability;
     }
 
