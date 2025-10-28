@@ -1,0 +1,3 @@
+Questo è il capolavoro di Valusso Gregor dell'anno 2023/2024. Le classi da me programmate si trovano all'interno di src/main/java/ruby
+La creazione di questa mod ha richiesto inoltre di creare delle risorse quali texture e modelli 3d.
+Se si desidera buildare il codice sorgente lo si importi in intellij idea e si esegua nel terminale "./gradlew build" (senza doppi apici)
