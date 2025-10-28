@@ -1,0 +1,6 @@
+// 1.21.1	2024-12-29T16:19:53.4850426	Tags for minecraft:item mod id ruby
+3639653fbf3586c4e083a15fbade11491986d843 data/minecraft/tags/item/chest_armor.json
+ada129eb9c1a95ebf8779d1a71ee22814afa3a40 data/minecraft/tags/item/foot_armor.json
+ceed33da2859f3b14f0a6d5101e7eaed5b849057 data/minecraft/tags/item/head_armor.json
+c58d29442d7eea636695203b5f9c4f727a2f7f89 data/minecraft/tags/item/leg_armor.json
+b8243a4b89d70db922c678423cf6d5732dcc2ef7 data/minecraft/tags/item/swords.json

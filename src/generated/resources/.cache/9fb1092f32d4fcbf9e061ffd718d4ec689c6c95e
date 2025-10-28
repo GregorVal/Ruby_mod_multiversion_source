@@ -1,0 +1,13 @@
+// 1.21.1	2024-12-29T16:46:08.4833733	Recipes
+69a058420c426c60669ffe9dca16115fbf62eeff data/ruby/advancement/recipes/misc/njrsboot.json
+372a1c2dcea12d936ed6bbb98adfa151bdfc16e8 data/ruby/advancement/recipes/misc/njrschest.json
+fbbdbeb139201d8685472dcbbf3c6795f5462984 data/ruby/advancement/recipes/misc/njrshelm.json
+9247580446241fa4e3908fae9426864529be2f14 data/ruby/advancement/recipes/misc/njrsingot.json
+ec56306555055ce32decdf1a61a4619c8473de7d data/ruby/advancement/recipes/misc/njrsleg.json
+d1e2d311359f959a1b27e9d13a5e0e4b84b26ad2 data/ruby/advancement/recipes/misc/ruby_sw.json
+399ed398d639a5eb62965ba71045f753ea297fc2 data/ruby/recipe/njrsboot.json
+0783057d4ab7da29a96283fd22a7c29cc680005e data/ruby/recipe/njrschest.json
+83f67ba706b2271510c01070a4d24b862bc1d550 data/ruby/recipe/njrshelm.json
+4c7e7d8abfb87f4fe9e1958652461f7649eeb5f1 data/ruby/recipe/njrsingot.json
+21e50697ea7e4710cdc4d6ea9b2c7ad8ebfe9559 data/ruby/recipe/njrsleg.json
+e0a4369cbe9a2a01026862a793f99e8a3a4d95b1 data/ruby/recipe/ruby_sw.json
