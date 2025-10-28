@@ -1,0 +1,23 @@
+{
+  "itemGroup.Ruby": "Ruby Mod",
+
+
+  "item.ruby.ruby_sw": "NJ_ROSSO's Katana",
+  "item.ruby.mcd_master_katana": "Master's Katana",
+  "item.ruby.njrsingot": "NJ_ROSSO's ingot",
+  "item.ruby.njrshelm": "NJ_ROSSO's helmet",
+  "item.ruby.njrschest": "NJ_ROSSO's chestplate",
+  "item.ruby.njrsleg": "NJ_ROSSO's leggings",
+  "item.ruby.njrsboot": "NJ_ROSSO's boots",
+  "item.ruby.strange_scrap": "Strange scrap",
+  "item.ruby.dawn_helmet": "Akatsuki hoodie",
+  "item.ruby.dawn_chestplate": "Akatsuki robe",
+  "item.ruby.dawn_leggings": "Akatsuki pants",
+  "item.ruby.dawn_boots": "Akatsuki shoes",
+
+
+
+  "enchantment.ruby.fire_sweep": "Fiery Infused Edge",
+  "enchantment.ruby.fire_thorns": "Fiery Infused Thorns",
+  "enchantment.ruby.wither_thorns": "Wither Thorns"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_sword"
+    },
+    "X": {
+      "item": "ruby:njrsingot"
+    }
+  },
+  "result": {
+    "item": "ruby:ruby_sw"
+  }
+}
