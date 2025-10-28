@@ -5,7 +5,7 @@ This mod is under development. This means it is going to be updated and maybe on
 
 ## Capolavoro
 
-Il ramo 1.16.5 di questa mod è stato utilizzato come capolavoro della piattaforma unica dell'anno 2023/2024 
+Il ramo capolavoro-unica di questa mod è stato utilizzato come capolavoro della piattaforma unica dell'anno 2023/2024 
 
 ## Credits
 
