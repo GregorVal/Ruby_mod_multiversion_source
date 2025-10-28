@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "addition": {
+    "item": "minecraft:nether_wart"
+  },
+  "result": {
+    "item": "njrs:strange_scrap"
+  }
+}

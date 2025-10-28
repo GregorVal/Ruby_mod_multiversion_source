@@ -1,0 +1,22 @@
+{
+  "item.ruby.njrs": "NJ_ROSSO's Sword",
+  "item.ruby.tj_katana": "llama_07_ nichirin",
+  "item.ruby.njrshelm" : "NJ_ROSSO's helmet",
+  "item.ruby.njrschest" : "NJ_ROSSO's chestplate",
+  "item.ruby.njrsleg" : "NJ_ROSSO's leggings",
+  "item.ruby.njrsboot" : "NJ_ROSSO's boots",
+  "item.ruby.njrsingot": "NJR's ingot",
+  "item.ruby.master_k": "Master Katana",
+  "item.ruby.u_helm": "Earrings",
+  "item.ruby.u_chest": "Uniform jacket",
+  "item.ruby.u_leg": "Uniform leggings",
+  "item.ruby.u_boots": "Uniform Boots",
+  "item.ruby.strange_scrap": "Strange Scrap",
+
+  "enchantment.ruby.fiery_sweep": "Fiery Infused Edge",
+  "enchantment.ruby.fiery_thorns": "Fiery Infused Thorns",
+
+  "effect.ruby.fire_regeneration": "Fire Regeneration",
+
+  "itemGroup.Tabruby": "NJ_ROSSO's mod"
+}
